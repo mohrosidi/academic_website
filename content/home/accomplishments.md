@@ -73,13 +73,13 @@ item:
   date_start: "2018-07-01"
   description: ""
   organization: Harvard University
-  title: Data Science: Inference and Modeling
+  title: Data Science Inference and Modeling
 - certificate_url: https://courses.edx.org/certificates/0106d5e792d546cfb28727feddab5e3b
   date_end: ""
   date_start: "2018-07-01"
   description: ""
   organization: Harvard University
-  title: Data Science: Linear Regression
+  title: Data Science Linear Regression
 - certificate_url: https://www.youracclaim.com/badges/2faa8670-1909-4278-9c7d-0677ae41a579/linked_in_profile
   date_end: ""
   date_start: "2018-07-01"
@@ -108,7 +108,7 @@ item:
   date_end: ""
   date_start: "2018-06-01"
   description: ""
-  organization: PT. Bank Negara Indonesia (Persero) Tbk.
+  organization: PT Bank Negara Indonesia (Persero) Tbk
   title: BNI101 - Introduction to General Banking
 subtitle: ""
 title: Accomplish&shy;ments
